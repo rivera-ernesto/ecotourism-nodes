@@ -6,6 +6,8 @@
 
 [Español](es/mallasa.md)
 
+![Circuito Ecoturístico Mallasa](./assets/mallasa.jpg)
+
 ## One-line summary
 
 Circuito Ecoturístico Mallasa is the first pilot of Ecotourism Nodes: a territorial circuit that combines reliable lodging, local experiences, and gradual infrastructure improvements to activate higher-quality ecotourism in Mallasa.

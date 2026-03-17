@@ -6,6 +6,8 @@
 
 [English](../mallasa.md)
 
+![Circuito Ecoturístico Mallasa](../assets/mallasa.jpg)
+
 ## Idea en una frase
 
 Circuito Ecoturístico Mallasa es el primer piloto de Nodos Ecoturísticos: un circuito territorial que combina alojamiento de confort confiable, experiencias locales y mejoras graduales de infraestructura para activar ecoturismo de mayor calidad en Mallasa.
